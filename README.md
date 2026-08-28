@@ -1,10 +1,10 @@
 # Hi! I'm Jimena 🌸
 
-[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-F8BBD0?style=for-the-badge&logoColor=white&v=2)](https://jimenasegurabéjar.com)
+[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-F8BBD0?style=for-the-badge&logoColor=white&v=2)](https://jimenasegurabejar.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-F8BBD0?style=for-the-badge&logo=googlescholar&logoColor=white&v=2)](https://scholar.google.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/jimena-segura-bejar/)
 [![X](https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=white&v=2)](https://x.com/JimenaS86541537)
-[![Cortex Dreams](https://cortexdreams.substack.com/)
+[![Cortex Dreams](https://img.shields.io/badge/🌷_Cortex_Dreams-F8BBD0?style=for-the-badge&logoColor=white&v=2)](https://cortexdreams.substack.com/)
 
 
 Hi!  Currently, I'm researching Schröndinger Bridges and Reinforcement Learning from MonarchOT: Geometric Aggregation in Wasserstein Space Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy to The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space to a Complete Guide: Learning as a child: Schröndinger Bridges, Entropy Regularization and the Geometry of RL and NeuralButterflyOT: Structured Matrix Approximations, hierarchical coupling, and scalable wasserstein maps via butterfly Factorisation 
