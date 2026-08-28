@@ -11,7 +11,7 @@ Hi!
 Currently, I'm researching Schröndinger Bridges and Reinforcement Learning from MonarchOT: Geometric Aggregation in Wasserstein Space Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy to The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space to a Complete Guide: Learning as a child: Schröndinger Bridges, Entropy Regularization and the Geometry of RL and NeuralButterflyOT: Structured Matrix Approximations, hierarchical coupling, and scalable wasserstein maps via butterfly Factorisation 
 
 
-**Research** 📭
+**Research** 🧠
 
 
 From creating theoretical frameworks for ASD human brain organoids to AI for cellular agriculture, through [**Athenei Biosciences**](https://atheneibiosciences.com) 
@@ -21,7 +21,7 @@ From creating theoretical frameworks for ASD human brain organoids to AI for cel
 
 I also share my research notes through my **[Newsletter](https://cortexdreams.substack.com/)**, so that even a five-year-old child can understand and explain the theoretical frameworks to a 50 year old human being. 
 
-**Share** 🧩
+**Share** 📭
 
 I'm always open to chat about any of these topics if these sparks your curiousity, through [**X**](https://x.com/JimenaS86541537).
 
