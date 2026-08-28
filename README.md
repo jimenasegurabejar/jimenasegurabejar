@@ -11,8 +11,7 @@ I share my research notes on **[Cortex Dreams](https://unmarred-melon-c6e.notion
 
 
 
-I would love to connect via LinkedIn or **[X[(https://x.com/JimenaS86541537)** 🌸
-
+I would love to connect via LinkedIn or **[X](https://x.com/JimenaS86541537)** 🌸
 
 
 
