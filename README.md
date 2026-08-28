@@ -13,8 +13,7 @@ Currently, I'm researching Schröndinger Bridges and Reinforcement Learning from
 **Research** 🧠
 
 
-From creating theorethical frameworks for ASD human brain organoids to AI for cellular agriculture through Athenei Biosciences
-
+From creating theoretical frameworks for ASD human brain organoids to AI for cellular agriculture, through [Athenei Biosciences](https://atheneibiosciences.com).
 
 
 
