@@ -1,10 +1,10 @@
 # Hi! I'm Jimena 🌸
 
-[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-F8BBD0?style=for-the-badge&logoColor=white&v=3)](https://jimenasegurabejar.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-F8BBD0?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/)
-[![LinkedIn](https://img.shields.io/badge/🍄_LinkedIn-F8BBD0?style=for-the-badge&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
-[![X](https://img.shields.io/badge/☁️_X-F8BBD0?style=for-the-badge&logoColor=white&v=3)](https://x.com/JimenaS86541537)
-[![Cortex Dreams](https://img.shields.io/badge/🌷_Cortex_Dreams-F8BBD0?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
+[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://jimenasegurabejar.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-EC8FB4?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/)
+[![LinkedIn](https://img.shields.io/badge/🍄_LinkedIn-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
+[![X](https://img.shields.io/badge/☁️_X-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://x.com/JimenaS86541537)
+[![Cortex Dreams](https://img.shields.io/badge/🌷_Cortex_Dreams-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
 Hi!  
 
