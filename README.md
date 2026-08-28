@@ -1,6 +1,10 @@
 ## Hi! I'm Jimena 🌸
 
 
+
+Currently, I'm researching 
+
+
 My research ranges from schrondinger bridges and reinforcement learning to 
 
 
