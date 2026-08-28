@@ -1,5 +1,11 @@
 ## Hi! I'm Jimena 🌸
 
+
+
+
+
+I share my research notes on Cortex Dreams.
+
 <!--
 **jimenasegurabejar/jimenasegurabejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
