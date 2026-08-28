@@ -15,7 +15,7 @@ Currently, I'm researching schrondinger bridges and reinforcement learning to Mo
 My research ranges from schrondinger bridges and reinforcement learning to 
 
 
-I also share my research notes on **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6)** if you are curious what I'm currently researching.
+I also share my research notes in two ways **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6)** and through Substack if you are curious what I'm currently researching.
 
 
 
