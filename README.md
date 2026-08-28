@@ -1,11 +1,10 @@
 # Hi! I'm Jimena 🌸
 
-[![Personal Website](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/personal_website.svg)](https://jimenasegurabéjar.com)
-[![Google Scholar](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/google_scholar.svg)](https://scholar.google.com/)
-[![LinkedIn](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/linkedin.svg)](https://www.linkedin.com/in/jimena-segura-bejar/)
-[![X](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/x.svg)](https://x.com/JimenaS86541537)
-[![Cortex Dreams](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/cortex_dreams.svg)](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74)
-[![Substack](https://raw.githubusercontent.com/jimenasegura/jimenasegura/main/badges/substack.svg)](https://substack.com/@jimenasegurabejar)
+[![Personal Website](badges/personal_website.svg)](https://jimenasegurabéjar.com)
+[![Google Scholar](badges/google_scholar.svg)](https://scholar.google.com/)
+[![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/jimena-segura-bejar/)
+[![X](badges/x.svg)](https://x.com/JimenaS86541537)
+[![Cortex Dreams](badges/cortex_dreams.svg)](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74)
 
 
 Currently, I'm researching schrondinger bridges and reinforcement learning to Monarch OT: Geometric Aggregation in Wasserstein Space — Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy to The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space
