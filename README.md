@@ -12,6 +12,8 @@ Currently, I'm researching Schröndinger Bridges and Reinforcement Learning from
 
 
 
+**Research**
+
 
 
 
