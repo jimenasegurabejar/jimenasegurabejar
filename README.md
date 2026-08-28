@@ -1,4 +1,4 @@
-# Hi! I'm Jimena 🌸
+![Hi! I'm Jimena](badges/hi_im_jimena.png) 🌸
 
 [![Personal Website](https://img.shields.io/badge/✦_Personal_Website-F8BBD0?style=for-the-badge&logoColor=white)](https://jimenasegurabéjar.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-F8BBD0?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
