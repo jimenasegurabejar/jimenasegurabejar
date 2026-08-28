@@ -18,14 +18,6 @@ My research ranges from schrondinger bridges and reinforcement learning to
 I share my research notes in two ways: **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6)** and through my **[newsletter](https://cortexdreams.substack.com/)**, if you are curious what I'm currently researching.
 
 
-
-
-
-
-I would love to connect via **[LinkedIn](https://www.linkedin.com/in/jimena-segura-bejar/)** or **[X](https://x.com/JimenaS86541537)** 🌸
-
-
-
 <!--
 **jimenasegurabejar/jimenasegurabejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
