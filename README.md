@@ -12,6 +12,10 @@ Currently, I'm researching schrondinger bridges and reinforcement learning from 
 
 
 
+
+
+
+
 My research ranges from schrondinger bridges and reinforcement learning to 
 
 
