@@ -20,7 +20,7 @@ From creating theorethical frameworks for ASD human brain organoids to AI for ce
 
 I share my research notes through my **[Newsletter](https://cortexdreams.substack.com/)**, so that even a five-year-old child can understand and explain the theoretical frameworks to a 50 year old human being. 
 
-I'm always open to chat about any of these topics or anything you're curious about bio inspired methods applied to reinforcement learning
+I'm always open to chat about any of these topics, or anything you're curious about regarding bio-inspired methods applied to reinforcement learning, through [X](https://x.com/jimenasegurabejar).
 
 
 <!--
