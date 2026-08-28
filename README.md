@@ -6,7 +6,7 @@ Hi!
 
 
 
-I share my research notes on [Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74).
+I share my research notes on **Cortex Dreams**: https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74 
 
 <!--
 **jimenasegurabejar/jimenasegurabejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
