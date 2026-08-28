@@ -22,7 +22,7 @@ I share my research notes in two ways: **[Cortex Dreams](https://unmarred-melon-
 
 
 
-I would love to connect via **[LinkedIn](https://www.linkedin.com/in/jimena-segura-bejar/)** or **[X](https://x.com/JimenaS86541537)** 🌸🤗
+I would love to connect via **[LinkedIn](https://www.linkedin.com/in/jimena-segura-bejar/)** or **[X](https://x.com/JimenaS86541537)** 🌸
 
 
 
