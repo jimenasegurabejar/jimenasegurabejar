@@ -30,7 +30,7 @@ From creating theorethical frameworks for ASD human brain organoids to AI for ce
 My research ranges from schrondinger bridges and reinforcement learning to 
 
 
-I share my research notes in two ways: **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6)** and through my **[Newsletter](https://cortexdreams.substack.com/)**, so that even a five-year-old child can understand and explain our theoretical frameworks.
+I share my research notes in two ways: **drafts** and through my **[Newsletter](https://cortexdreams.substack.com/)**, so that even a five-year-old child can understand and explain our theoretical frameworks.
 
 
 <!--
