@@ -1,5 +1,9 @@
 ## Hi! I'm Jimena 🌸
 
+
+My research ranges from schrondinger bridges and reinforcement learning to 
+
+
 I share my research notes on **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74)**.
 
 
