@@ -24,7 +24,7 @@ I also share the summaries through my **[Newsletter](https://cortexdreams.substa
 
 **Share** 📭
 
-I'm always open to chat about any of these topics if these sparks your curiousity, through [**X**](https://x.com/JimenaS86541537).
+I'm always open to chat about any of these topics if these sparks your curiosity, through [**X**](https://x.com/JimenaS86541537).
 
 <!--
 **jimenasegurabejar/jimenasegurabejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
