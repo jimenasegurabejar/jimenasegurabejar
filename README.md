@@ -2,7 +2,7 @@
 
 
 
-Currently, I'm researching 
+Currently, I'm researching schrondinger bridges and reinforcement learning to Monarch OT: Geometric Aggregation in Wasserstein Space — Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy
 
 
 My research ranges from schrondinger bridges and reinforcement learning to 
