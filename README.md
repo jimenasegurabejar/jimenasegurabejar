@@ -7,7 +7,7 @@
 [![Cortex Dreams](https://img.shields.io/badge/🌸_Cortex_Dreams-F8BBD0?style=for-the-badge&logoColor=white&v=2)](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74)
 
 
-Currently, I'm researching schrondinger bridges and reinforcement learning from Monarch OT: Geometric Aggregation in Wasserstein Space — Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy to The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space
+Currently, I'm researching Schröndinger Bridges and Reinforcement Learning from MonarchOT: Geometric Aggregation in Wasserstein Space — Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy to The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space
 
 
 
