@@ -19,7 +19,7 @@ Currently, I'm researching Optimal Transport and Reinforcement Learning from **M
 
 
 
-From creating [**theoretical frameworks**](http://jimenasegurabejar.github.io/neuroscience) for ASD human brain organoids to AI for cellular agriculture, through [Athenei Biosciences](#) biological superintelligence for cellular agriculture to [Physis Research](#) foundational models for the new era of reinforcement to AI for cellular agriculture, through **[Athenei Biosciences](https://atheneibiosciences.com/)** biological superintelligence for cellular agriculture to **[Physis Research](**physisresearch.com**)** foundational models for the new era of reinforcement learning.
+From creating [**theoretical frameworks**](http://jimenasegurabejar.github.io/neuroscience) for ASD human brain organoids to AI for cellular agriculture, through [Athenei Biosciences](#) biological superintelligence for cellular agriculture to [Physis Research](#) foundational models for the new era of reinforcement.
 
 
 
