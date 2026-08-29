@@ -1,6 +1,6 @@
 # Hi! I'm Jimena 🌸
 
-[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://jimenasegurabejar.com)
+[![Personal Website](https://img.shields.io/badge/🧠_Personal_Website-EC8FB4?style=for-the-badge&logoColor=white&v=3)](jimenasegurabejar.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-EC8FB4?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/)
 [![LinkedIn](https://img.shields.io/badge/🍄_LinkedIn-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
 [![X](https://img.shields.io/badge/☁️_X-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://x.com/JimenaS86541537)
