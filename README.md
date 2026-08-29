@@ -8,7 +8,7 @@
 
 Hi!  
 
-Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](http://jimenasegurabejar.github.io) from **MonarchOT: Geometric Aggregation in Wasserstein Space, Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy** to **The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space** to **Learning as a Child: Schröndinger Bridges, Entropy Regularization and the Geometry of RL** and **NeuralButterflyOT: Structured Matrix Approximations, Hierarchical Coupling, and Scalable Wasserstein Maps via Butterfly Factorisation**
+Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](http://jimenasegurabejar.github.io) from **ForesButterflyOT**: **MonarchOT: Geometric Aggregation in Wasserstein Space, Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy** to **The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space** to **Learning as a Child: Schröndinger Bridges, Entropy Regularization and the Geometry of RL** and **NeuralButterflyOT: Structured Matrix Approximations, Hierarchical Coupling, and Scalable Wasserstein Maps via Butterfly Factorisation**
 
 
 
