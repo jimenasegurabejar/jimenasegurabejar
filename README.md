@@ -20,7 +20,7 @@ From creating **theoretical frameworks** for ASD human brain organoids to AI for
 
 I share the summaries through my **[Newsletter](https://cortexdreams.substack.com/)**, so that even a five-year-old child can understand and explain the theoretical frameworks to a 50 year old human being. 
 
-**Share** 📭
+**Share** 💗
 
 I'm always open to chat about any of these topics if these sparks your curiosity, through [**X**](https://x.com/JimenaS86541537).
 
