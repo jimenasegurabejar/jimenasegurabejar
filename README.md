@@ -30,10 +30,6 @@ From creating [**theoretical frameworks**](http://jimenasegurabejar.github.io/ne
 I'm always open to chat about any of these topics if they spark your curiosity, through [X](https://x.com/JimenaS86541537).
 
 
-
-
-I'm always open to chat about any of these topics if they spark your curiosity, through X.
-
 <!--
 **jimenasegurabejar/jimenasegurabejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
