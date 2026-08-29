@@ -13,7 +13,6 @@ Currently, I'm researching Optimal Transport and Reinforcement Learning from **M
 
 
 
-
 <h1 align="left">Research 🧠</h1>
 
 ---
