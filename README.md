@@ -18,7 +18,7 @@ Currently, I'm researching Optimal Transport and Reinforcement Learning from **M
 
 **Research** 🧠
 
-From creating **theoretical frameworks** for ASD human brain organoids to AI for cellular agriculture, through **[Athenei Biosciences](https://atheneibiosciences.com/)** biological superintelligence for cellular agriculture.
+From creating **theoretical frameworks** for ASD human brain organoids to AI for cellular agriculture, through **[Athenei Biosciences](https://atheneibiosciences.com/)** biological superintelligence for cellular agriculture to **[Physis Research](physisresearch.com)**
 
 
 
