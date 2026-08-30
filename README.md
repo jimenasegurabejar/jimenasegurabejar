@@ -26,7 +26,7 @@ From creating [**theoretical frameworks**](http://jimenasegurabejar.github.io/ne
 
 
 
-<h1 align="left">Share 💗</h1>
+<h1 align="left">Collaborate📭</h1>
 
 
 I'm always open to  discuss through [**X**](https://x.com/JimenaS86541537), I reply all messages.
