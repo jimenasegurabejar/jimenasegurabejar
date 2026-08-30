@@ -6,7 +6,7 @@
 [![X](https://img.shields.io/badge/☁️_X-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://x.com/JimenaS86541537)
 [![Cortex Dreams](https://img.shields.io/badge/🌷_Cortex_Dreams-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
-Hi!  
+Hi!  🤗
 
 Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](http://jimenasegurabejar.github.io) from **ForestButterflyOT**: **MonarchOT: Geometric Aggregation in Wasserstein Space, Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy** to **The JKO Structure of Distributed Learning: Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space** to **Learning as a Child: Schröndinger Bridges, Entropy Regularization and the Geometry of RL** and **NeuralButterflyOT: Structured Matrix Approximations, Hierarchical Coupling, and Scalable Wasserstein Maps via Butterfly Factorisation**
 
