@@ -27,7 +27,7 @@ From creating [**theoretical frameworks**](http://jimenasegurabejar.github.io/ne
 <h1 align="left">Share 💗</h1>
 
 
-I'm always open to chat about any of these topics if these topics sparks your curiosity, through [**X**](https://x.com/JimenaS86541537), I reply all messages.
+I'm always open to chat, through [**X**](https://x.com/JimenaS86541537), I reply all messages.
 
 
 <!--
