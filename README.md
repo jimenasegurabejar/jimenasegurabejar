@@ -24,9 +24,6 @@ From creating [**Theoretical Frameworks**](jimenasegurabejar.github.io/portfolio
 
 
 
-<h1 align="left">Collaborate📭</h1>
-
-
 I'm always open to  discuss through [**X**](https://x.com/JimenaS86541537), I reply all messages.
 
 
