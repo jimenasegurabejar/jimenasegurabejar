@@ -19,7 +19,7 @@ Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](ht
 
 
 
-From creating [**Theoretical Frameworks**](jimenasegurabejar.github.io/portfolio) for human brain organoids to AI for cellular agriculture, through [**Athenei Biosciences**](https://atheneibiosciences.com) biological superintelligence for cellular agriculture to [**Physis Research**](http://physisresearch.ai) foundational models for the new era of reinforcement learning.
+From creating [**Theoretical Frameworks**](jimenasegurabejar.github.io/portfolio) for human brain organoids to AI for cellular agriculture, through [**Athenei Biosciences**](jimenasegurabejar.github.io/companies) biological superintelligence for cellular agriculture to [**Physis Research**](jimenasegurabejar.github.io/companies) foundational models for the new era of reinforcement learning.
 
 
 
