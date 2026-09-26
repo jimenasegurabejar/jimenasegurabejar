@@ -19,7 +19,7 @@ Hi! I'm an AI Researcher, authored four papers in geometric reinforcement learni
 
 
 
-From creating [**Theoretical Frameworks**](jimenasegurabejar.github.io/portfolio) for human brain organoids to AI for cellular agriculture, through [**Athenei Biosciences**](jimenasegurabejar.github.io/companies) foundational models for cellular agriculture published in Communications Biology.
+From creating [**Theoretical Frameworks**](https://jimenasegurabejar.github.io/portfolio) for [**human brain organoids**](https://scholar.google.com/citations?user=NRhphvgAAAAJ&hl=en) to AI for cellular agriculture, through [**Athenei Biosciences**](https://jimenasegurabejar.github.io/companies) foundational models for cellular agriculture published in Communications Biology.
 
 
 
