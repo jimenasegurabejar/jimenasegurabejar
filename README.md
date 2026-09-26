@@ -4,7 +4,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-EC8FB4?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/citations?user=NRhphvgAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EC8FB4?style=for-the-badge&logo=linkedin&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
 [![X](https://img.shields.io/badge/☁️_X-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://x.com/JimenaS86541537)
-[![Cortex Dreams](https://img.shields.io/badge/🧠Cortex_Dreams-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
+[![Technical Blog](https://img.shields.io/badge/🧠Technical_Blog-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
 
 
