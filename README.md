@@ -7,8 +7,11 @@
 [![Technical Blog](https://img.shields.io/badge/🧠Technical_Blog-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
 
+I'm an AI researcher and have authored four papers in geometric reinforcement learning, spanning Wasserstein-based policy aggregation and hierarchical optimal transport. My research sits at the intersection of optimal transport and reinforcement learning. I'm scaling Wasserstein-geometric aggregation for decentralized training, and asking whether Schrödinger-bridge aggregation, in place of parameter averaging, unlocks emergent properties and cross-task transfer in policies trained at frontier scale.
 
-Hi! I'm an AI Researcher, authored four papers in geometric reinforcement learning, spanning Wasserstein-based policy aggregation and hierarchical optimal transport. My research sits at the intersection of optimal transport and reinforcement learning, scaling Wasserstein-geometric aggregation for decentralized training, and asking whether Schrödinger-bridge aggregation, in place of parameter averaging, unlocks emergent properties and cross-task transfer in policies trained at frontier scale.
+
+
+
 
 
 
