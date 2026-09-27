@@ -9,7 +9,7 @@
 
 I'm an AI researcher and have authored four papers in geometric reinforcement learning, spanning Wasserstein-based policy aggregation and hierarchical optimal transport. My research sits at the intersection of optimal transport and reinforcement learning. I'm scaling Wasserstein-geometric aggregation for decentralized training, and asking whether Schrödinger-bridge aggregation, in place of parameter averaging, unlocks emergent properties and cross-task transfer in policies trained at frontier scale.
 
-Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](https://jimenasegurabejar.github.io) through **ForestButterflyOT Universe**
+Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](https://jimenasegurabejar.github.io) through **ForestButterflyOT Universe** all papers under review.
 
 - **MonarchOT:** Geometric Aggregation in Wasserstein Space, Fréchet Means, Curved Geometry, and the Failure of Arithmetic Averaging in Distributed Policy
 - **The JKO Structure of Distributed Learning:** Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space
