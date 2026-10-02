@@ -6,7 +6,7 @@
 [![X](https://img.shields.io/badge/X-EC8FB4?style=for-the-badge&logo=x&logoColor=white&v=3)](https://x.com/jimenasegurab)
 [![Technical Blog](https://img.shields.io/badge/🧠Technical_Blog-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
-I'm an AI researcher and have authored four papers in geometric reinforcement learning, spanning Wasserstein-based policy aggregation and hierarchical optimal transport. My research sits at the intersection of optimal transport and reinforcement learning. I'm scaling Wasserstein-geometric aggregation for decentralized training, and asking whether Schrödinger-bridge aggregation, in place of parameter averaging, unlocks emergent properties and cross-task transfer in policies trained at frontier scale.
+I'm an AI researcher and have authored four papers in geometric reinforcement learning, spanning Wasserstein-based policy aggregation and hierarchical optimal transport. My research sits at the intersection of optimal transport and reinforcement learning. I'm scaling Wasserstein-geometric aggregation for decentralized training, and asking whether Schrödinger-bridge aggregation, in place of parameter averaging, unlocks emergent properties and cross-task transfer in policies trained at frontier scale. 
 
 Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](https://jimenasegurabejar.github.io) through **ForestButterflyOT Universe** all papers under review.
 
@@ -14,11 +14,6 @@ Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](ht
 - **The JKO Structure of Distributed Learning:** Variational Optimality, Geometric Aggregation, and Population Dynamics in Wasserstein Space
 - **Learning as a Child:** Schrödinger Bridges, Entropy Regularization and the Geometry of RL
 - **NeuralButterflyOT:** Structured Matrix Approximations, Hierarchical Coupling, and Scalable Wasserstein Maps via Butterfly Factorisation
-
-
-
-
-
 
 
 
@@ -32,7 +27,7 @@ From creating [**Theoretical Frameworks**](https://jimenasegurabejar.github.io/p
 
 
 
-I'm always open to  discuss through [**X**](https://x.com/JimenaS86541537), I reply all messages :D
+I'm always open to  discuss through [**X**](https://x.com/jimenasegurab), I reply all messages :D
 
 
 <!--
