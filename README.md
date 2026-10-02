@@ -2,8 +2,8 @@
 
 [![Personal Website](https://img.shields.io/badge/🌍Personal_Website-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://jimenasegurabejar.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-EC8FB4?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/citations?user=NRhphvgAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC8FB4?style=for-the-badge&logo=linkedin&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
-[![X](https://img.shields.io/badge/☁️_X-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://x.com/jimenasegurab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC8FB4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==&logoColor=white&v=3)](https://www.linkedin.com/in/jimena-segura-bejar/)
+[![X](https://img.shields.io/badge/X-EC8FB4?style=for-the-badge&logo=x&logoColor=white&v=3)](https://x.com/jimenasegurab)
 [![Technical Blog](https://img.shields.io/badge/🧠Technical_Blog-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://cortexdreams.substack.com/)
 
 
