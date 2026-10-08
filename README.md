@@ -25,7 +25,7 @@ Currently, I'm researching [**Optimal Transport and Reinforcement Learning**](ht
 
 From creating [**Theoretical Frameworks**](https://jimenasegurabejar.github.io/portfolio) for [**human brain organoids**](https://scholar.google.com/citations?user=NRhphvgAAAAJ&hl=en) to AI for cellular agriculture, through [**Athenei**](https://jimenasegurabejar.github.io/companies) Foundational Models for Cellular Agriculture published in Nature Communications Biology.
 
-Asides from research, I'm the Executive Director of Imasion, a non profit working to impact the 2.3 billion children in the planet Earth backed by MIT Solve, UN Women, Catalyst Now, Malala Fund, Earth Guardians, Women Win, and others. It's the same conviction that runs through my technical work: that decentralizing access, whether to compute, to models, or to education, is what lets people historically locked out of a field actually contribute to it.
+Asides from research, I'm the Executive Director of  [**Imasion**](imasion.org), a non profit working to impact the 2.3 billion children in the planet Earth backed by MIT Solve, UN Women, Catalyst Now, Malala Fund, Earth Guardians, Women Win, and others. It's the same conviction that runs through my technical work: that decentralizing access, whether to compute, to models, or to education, is what lets people historically locked out of a field actually contribute to it.
 
 
 I'm always open to  discuss through [**X**](https://x.com/jimenasegurab), I reply all messages :D
