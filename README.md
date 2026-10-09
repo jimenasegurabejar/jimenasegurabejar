@@ -1,4 +1,4 @@
-# Hi! I'm Jimena 🌸
+# Hi! I'm Jimena 🌸🌍
 
 [![Personal Website](https://img.shields.io/badge/🌸_Personal_Website-EC8FB4?style=for-the-badge&logoColor=white&v=3)](https://jimenasegurabejar.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-EC8FB4?style=for-the-badge&logo=googlescholar&logoColor=white&v=3)](https://scholar.google.com/citations?user=NRhphvgAAAAJ&hl=en)
